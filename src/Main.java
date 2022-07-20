@@ -12,7 +12,7 @@ public class Main {
     }
 }
 class coche {
-    int numPuertas= 4;
+    public int numPuertas= 4;
     public void aumentarPuertas(){
         this.numPuertas++;
     }
